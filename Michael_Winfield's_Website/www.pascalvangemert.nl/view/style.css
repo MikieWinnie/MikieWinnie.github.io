@@ -178,7 +178,7 @@ hr { margin: 40px 0px; border-color: #FFFFFF; opacity: 0.4; filter:alpha(opacity
     width: 100%;
 }
 #projects figure .icon {
-	background: #22A39F;
+	background: #29598B;
 	position: absolute;
 	top: 0px;
 	right: 0px;
@@ -289,7 +289,7 @@ hr { margin: 40px 0px; border-color: #FFFFFF; opacity: 0.4; filter:alpha(opacity
 /*---------------*/
 
 figure.effect {
-	background: #22A39F;
+	background: #29598B;
 	color: #FFF;
 }
 
