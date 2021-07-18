@@ -44,15 +44,7 @@ hr { margin: 40px 0px; border-color: #FFFFFF; opacity: 0.4; filter:alpha(opacity
 	margin-bottom: 0px;
 	padding: 0px;
 }
-/*.jumbotron:before {
-	border: 1px solid #FFFFFF;
-	bottom: 30px;
-	content: "";
-	left: 30px;
-	position: absolute;
-	right: 30px;
-	top: 30px;
-}*/
+
 /* .jumbotron .overlay { background-color: #22A39F; position: absolute; top: 0px; bottom: 0px; left: 0px; right: 0px; opacity: 0.75; filter:alpha(opacity=75); z-index: 2; } */
 
 .jumbotron .container { position: relative; top: 28%; z-index: 4; text-align: center; }
@@ -148,7 +140,6 @@ hr { margin: 40px 0px; border-color: #FFFFFF; opacity: 0.4; filter:alpha(opacity
 	-o-transform: rotate(12deg);
 }
 
-/* #projects .row { margin: 0px; } // bootstrap 3.1- hack */
 #projects { color: #FFFFFF; }
 #projects .lead { color: #FFFFFF; }
 #projects h2, h3 { color: #FFFFFF; }
@@ -284,9 +275,7 @@ hr { margin: 40px 0px; border-color: #FFFFFF; opacity: 0.4; filter:alpha(opacity
 	}
 }
 
-/*---------------*/
-/***** EFFECT *****/
-/*---------------*/
+/* Effect */
 
 figure.effect {
 	background: #29598B;
